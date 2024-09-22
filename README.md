@@ -1,6 +1,4 @@
-# I am Arman Hasan Imon
-
-![Lazy Coding Bangladesh Cover](https://via.placeholder.com/1200x600.png?text=Lazy+Coding+Bangladesh)
+# I am Arman Hasan Riyen
 
 Welcome to my profile. I aim to simplify complex problems and transform businesses through efficient, scalable technology.<br>
 
