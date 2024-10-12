@@ -1,9 +1,9 @@
-# I am Arman Hasan Riyen
+# I am Jahid Hasan Imon
 
 Welcome to my profile. I aim to simplify complex problems and transform businesses through efficient, scalable technology.<br>
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me armanhasanriyen@gmail.com
+- 📫 How to reach me jahidhasanimonn@gmail.com
 - 😄 Pronouns: He/Him
 
 ## 🚀 Technologies I Love to Use:
